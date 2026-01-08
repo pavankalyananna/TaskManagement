@@ -51,17 +51,15 @@ TaskManagement/
    cd TaskManagement
 ````
 
-2. **Build the project**
+2. Build the project
 
-   ```bash
    mvn clean install
-   ```
 
-3. **Run the application**
 
-   ```bash
+3. Run the application
+
    mvn spring-boot:run
-   ```
+   
 
  
 
